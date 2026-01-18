@@ -197,6 +197,17 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Node.js cache files
+node_modules/.cache/
+.npm/
+.yarn/cache/
+.pnpm-store/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.turbo/
+.nx/cache/
+
 # Cursor
 #  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data

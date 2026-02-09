@@ -1,0 +1,38 @@
+{
+  "tournament": "2026 Toronto Pokemon VGC Regional Championships",
+  "id": "0000164",
+  "division": "masters",
+  "source": "pokedata.ovh",
+  "standings": [
+    {
+      "rank": 1,
+      "name": "Player One",
+      "record": "8-1-0",
+      "country": "US",
+      "resistance": 65.2,
+      "team": [
+        {"species": "Flutter Mane", "item": "Choice Specs", "ability": "Protosynthesis", "tera_type": "Fairy"},
+        {"species": "Incineroar", "item": "Safety Goggles", "ability": "Intimidate", "tera_type": "Ghost"},
+        {"species": "Rillaboom", "item": "Assault Vest", "ability": "Grassy Surge", "tera_type": "Fire"},
+        {"species": "Urshifu-Rapid-Strike", "item": "Focus Sash", "ability": "Unseen Fist", "tera_type": "Stellar"},
+        {"species": "Tornadus", "item": "Covert Cloak", "ability": "Prankster", "tera_type": "Steel"},
+        {"species": "Landorus", "item": "Life Orb", "ability": "Sheer Force", "tera_type": "Flying"}
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Player Two",
+      "record": "7-2-0",
+      "country": "CA",
+      "resistance": 62.8,
+      "team": [
+        {"species": "Calyrex-Shadow", "item": "Focus Sash", "ability": "As One", "tera_type": "Fairy"},
+        {"species": "Whimsicott", "item": "Focus Sash", "ability": "Prankster", "tera_type": "Ghost"},
+        {"species": "Incineroar", "item": "Safety Goggles", "ability": "Intimidate", "tera_type": "Water"},
+        {"species": "Rillaboom", "item": "Miracle Seed", "ability": "Grassy Surge", "tera_type": "Fire"},
+        {"species": "Chi-Yu", "item": "Choice Scarf", "ability": "Beads of Ruin", "tera_type": "Ghost"},
+        {"species": "Iron Hands", "item": "Assault Vest", "ability": "Quark Drive", "tera_type": "Grass"}
+      ]
+    }
+  ]
+}
